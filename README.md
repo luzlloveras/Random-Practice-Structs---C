@@ -1,1 +1,1 @@
-# Random-Practice-Structs---C
+Practice of structures in C language
